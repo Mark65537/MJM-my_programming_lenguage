@@ -1,0 +1,15 @@
+﻿body {
+  /* Раскомментируйте, чтобы включить прокручивание и масштабирование
+  touch-action: manipulation;
+  */
+}
+.input {
+  border: 1px solid black;
+  width: 420px;
+  height: 290px;
+}
+.output {
+  border: 1px solid black;
+  width: 420px;
+  height: 290px;
+}
